@@ -1,3 +1,2 @@
 # learn
-求三连！/doge
-lalalalala
+我亲爱的软工实验哟！
